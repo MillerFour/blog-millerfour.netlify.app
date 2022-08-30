@@ -1,4 +1,4 @@
-baseURL = 'http://millerfour.dev/'
+baseURL = 'blog-millerfour.netlify.app'
 languageCode = 'en-us'
 title = 'MillerFour Coffee Site'
 theme = "https://github.com/zzossig/hugo-theme-zzo.git themes/zzo"
