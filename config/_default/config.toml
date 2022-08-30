@@ -2,7 +2,7 @@ baseURL = "https://blog-millerfour.netlify.app"
 title = "Hugo Zzo Theme"
 theme = "zzo"
 
-defaultContentLanguage = "en"
+defaultContentLanguage = "zh-cn"
 defaultContentLanguageInSubdir = true
 hasCJKLanguage = true
 
