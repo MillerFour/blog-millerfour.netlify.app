@@ -1,0 +1,4 @@
+baseURL = 'http://millerfour.dev/'
+languageCode = 'en-us'
+title = 'MillerFour Coffee Site'
+theme = "https://github.com/zzossig/hugo-theme-zzo.git themes/zzo"
