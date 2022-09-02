@@ -1,25 +1,39 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+description = "描述我的建站初衷，以及对本站的规划思考"
+date = "2022.09.02"
+aliases = ["about-me", "Future"]
+author = "MillerFour"
+
 +++
+```\
+终身学习（认知杠杆）* 全栈技术（时间杠杆）* 投资理财（财务杠杆） => 被动收入（人生杠杆）
+```
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 
-Hugo makes use of a variety of open source projects including:
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+关于我 & ta
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+2022.09.02
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+---
+
+
+
+我是一名互联网从业人员，从RD 做到 PM（项目经理），到现在从事PM（产品经理）相关的工作。
+
+
+
+对新鲜技术和前沿变革一直保持着热情，同时也在生活方面慢慢有了自己的积累和思考；为了能留下我一路走来的痕迹，所以最近着手建立`不为谁而作`的站。
+
+
+
+从很小的时候， 我就觉得`天生我才`，一定是因为什么原因让上帝（虽然我并不信教）选择了我来到了这人间，所以我一定得闯出属于自己的一片天。这一点我一直没有怀疑过，但是结婚2年后，我发现这一点在慢慢消磨。岁月雕刻的我没有变的越来越锐利，反而越来越庸钝。
+
+
+
+
+
+emmm， 想办法变一变？那么怎么变呢？等想好了 再来记录！
